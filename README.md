@@ -1,4 +1,3 @@
-:st
 <hr>
   <h2 align="center">Ressources Utiles dans Divers Domaines</h2>
   <table align="center">
