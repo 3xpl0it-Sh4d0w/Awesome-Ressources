@@ -1,3 +1,5 @@
-<hr>
-  <p>La liste est en cours de création ...</p>
-<hr>
+<blockquote>
+  <hr>
+  <h1 align="center">Awesome Ressources Utiles</h1>
+  <hr>
+</blockquote>
